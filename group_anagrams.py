@@ -1,0 +1,3 @@
+strs = input().split()
+
+#START
