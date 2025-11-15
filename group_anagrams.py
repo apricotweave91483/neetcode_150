@@ -1,3 +1,2 @@
 strs = input().split()
 
-#START
